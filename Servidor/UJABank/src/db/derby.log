@@ -1,0 +1,14 @@
+Sun Dec 15 18:39:40 CET 2019 : Servidor de red Apache Derby: Se ha iniciado 10.11.1.2 - (1629631) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Sun Dec 15 18:39:40 CET 2019:
+ Iniciando instancia a816c00e-016f-0aa4-f4ec-000038c6dc38 de Derby, versión The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): 
+en el directorio de base de datos C:\Users\Fran\Documents\NetBeansProjects\UJABank\src\db\UJABankDB con el cargador de clases sun.misc.Launcher$AppClassLoader@1d44bcfa
+Cargado desde file:/C:/Program%20Files/Java/jdk1.8.0_151/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Program Files\Java\jdk1.8.0_151\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Fran\Documents\NetBeansProjects\UJABank\src\db
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
